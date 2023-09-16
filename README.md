@@ -2,4 +2,4 @@
 
 This repository serves as a showcase for my HTML resume. You can view my resume by following this link:
 
-[View My Resume]([link-to-live-resume](https://jandelli.github.io/Resume/)https://jandelli.github.io/Resume/)
+[View My Resume]([https://jandelli.github.io/Resume/])
